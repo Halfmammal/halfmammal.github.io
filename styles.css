@@ -1,5 +1,5 @@
 body {
-    background-color:antiquewhite
+    background-color: antiquewhite;
 }
 
 #wrapper {
@@ -14,7 +14,7 @@ body {
     width: 99.99%;
     height: 50px;
     background: #33ccff;
-    border: solid #CCCCCC thin;
+    border: solid #cccccc thin;
     border-bottom: solid #000066 15px;
     border-top: solid #000066 15px;
     padding-top: 20px;
@@ -31,25 +31,22 @@ a.button {
     background-color: aliceblue;
     text-decoration: double;
     margin: 20px;
-    
 }
 
-content
-{
+content {
     background: #fff;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
-#content h1{
-    
+#content h1 {
     font-size: 2.5em;
     margin: 0;
     color: #2d3e50;
     padding: 20px;
 }
-#content h2{
+#content h2 {
     margin-top: 25px;
     color: #2d3e50;
     border-bottom: 2px solid #e0e0e0;
@@ -57,7 +54,7 @@ content
     padding: 5px;
 }
 
-#content h3{
+#content h3 {
     margin-top: 25px;
 
     border-bottom: 2px solid #e0e0e0;
@@ -65,7 +62,7 @@ content
     padding: 5px;
 }
 
-#resume p{
+#resume p {
     color: #555;
     padding-left: 15px;
     font-size: 20;
@@ -75,7 +72,7 @@ content
     padding-left: 5px;
 }
 
-#resume p2{
+#resume p2 {
     color: black;
     padding-left: 5px;
     font-size: 20px;
@@ -83,14 +80,14 @@ content
 
 #leftEdge {
     float: left;
-    border-left: solid #CCCCCC thin;
+    border-left: solid #cccccc thin;
     background: #bfbfbf;
     width: 1%;
     height: 100%;
 }
 #rightEdge {
     float: right;
-    border-right: solid #CCCCCC thin;
+    border-right: solid #cccccc thin;
     background: #bfbfbf;
     width: 1%;
     height: 100%;
@@ -123,9 +120,8 @@ content
     padding: 20px;
     width: 260px;
     text-align: center;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
-
 
 /* Images */
 .hobby-card img {
@@ -147,5 +143,3 @@ content
     font-size: 0.95em;
     color: #555;
 }
-
-
